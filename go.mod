@@ -23,6 +23,7 @@ require (
 	google.golang.org/appengine v1.6.1 // indirect
 	google.golang.org/genproto v0.0.0-20190708153700-3bdd9d9f5532 // indirect
 	google.golang.org/grpc v1.22.0 // indirect
+	willnorris.com/go/imageproxy v0.8.1-0.20190326225038-d4246a08fdec
 )
 
 // Workaround for https://github.com/golang/go/issues/30831 and fallout.
